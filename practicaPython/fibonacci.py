@@ -7,4 +7,4 @@ def fib():
 for i, x in enumerate(fib()):
     if i == 10:
         break
-    print("{}".format(x), end="")
+    print("{}".format(x), end=" ")
